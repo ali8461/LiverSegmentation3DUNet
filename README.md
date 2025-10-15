@@ -139,5 +139,3 @@ You may use and modify the model for research and educational purposes.
 > 🩺 *This model contributes to automated medical image segmentation for liver and analysis in CT scans.*
 
 ```
-
----
