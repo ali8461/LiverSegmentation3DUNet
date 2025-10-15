@@ -1,4 +1,3 @@
-````markdown
 # 🩸 Liver Segmentation using 3D UNet (MONAI)
 
 This project demonstrates a **3D UNet-based deep learning model** trained with the [MONAI](https://monai.io/) framework for **automatic liver and tumor segmentation** from 3D CT scans.
